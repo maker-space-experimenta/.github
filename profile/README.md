@@ -25,8 +25,8 @@ Interested in joining our community? Here’s how you can get involved:
 
 ## Contact Us
 - **Email:** makerspace@experimenta.science
-- **Social Media:** [instagram.com/der_maker_space/]
+- **Social Media:** [Instagram](instagram.com/der_maker_space/)
 
 ## Code of Conduct
-We believe in a respectful and inclusive environment. Please read our Code of Conduct [here]([code-of-conduct-link](https://makerspace.experimenta.science/dokumente/coc/)).
-Special thanks to our sponsors, volunteers, and community members who make this possible!
+We believe in a respectful and inclusive environment. Please read our Code of Conduct [here](https://makerspace.experimenta.science/dokumente/coc/).
+
