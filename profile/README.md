@@ -1,6 +1,6 @@
 # Welcome to Maker Space Experimenta in Heilbronn!
 
-![Banner Image: Maker Space Experimenta](https://makerspace.experimenta.science/wp-content/uploads/2020/06/header-06-scaled.jpg)
+![alt text](https://github.com/maker-space-experimenta/.github/blob/main/profile/makerspace.png?raw=true)
 
 ## About Us
 Maker Space Experimenta in Heilbronn is a vibrant community space dedicated to innovation, creativity, and learning. 
